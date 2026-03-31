@@ -1,0 +1,14 @@
+{
+  "admit_count": 0,
+  "generated_at": "2026-03-31T00:20:42Z",
+  "generation_log_sha256": "e1a4ecf8fac57f414728bd4877e5425e296bf3c7e81e4a2df034e4229d29a76b",
+  "lean_build_exit_code": 0,
+  "lean_source_sha256": "829575187a753a69fe66fe0e916adb6f63e9b3e018689887b432e6dfa5d60d55",
+  "lean_toolchain": "leanprover/lean4:v4.24.0",
+  "leancp_library_sha256": "5f88e5fef0d04027b100e4568c763e88547b1649fa0948c21ef74c984cca3322",
+  "schema_version": "leancp-wasm-generation-certificate-v1",
+  "sorry_count": 0,
+  "target_language": "wasm",
+  "wasm_output_deterministic": true,
+  "wasm_output_sha256": "e4fdc043215344af38f29e717d5f95346a13bdbcb1d5d303f22257e2c310d5c7"
+}

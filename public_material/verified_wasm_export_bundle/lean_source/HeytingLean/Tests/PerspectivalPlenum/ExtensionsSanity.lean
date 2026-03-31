@@ -1,0 +1,18 @@
+import HeytingLean.PerspectivalPlenum.Extensions
+
+namespace HeytingLean
+namespace Tests
+namespace PerspectivalPlenum
+
+#check HeytingLean.PerspectivalPlenum.Extensions.QMTrack.QMLensBinding
+#check HeytingLean.PerspectivalPlenum.Extensions.QMTrack.triangleBinding
+#check HeytingLean.PerspectivalPlenum.Extensions.QMTrack.triangleBinding_global_obstruction
+
+#check HeytingLean.PerspectivalPlenum.Extensions.QFTTrack.QFTScaffold
+#check HeytingLean.PerspectivalPlenum.Extensions.QFTTrack.toyScaffold
+#check HeytingLean.PerspectivalPlenum.Extensions.QFTTrack.toy_nucleus_idempotent
+#check HeytingLean.PerspectivalPlenum.Extensions.QFTTrack.strictToyProfile_disallows_counterterms
+
+end PerspectivalPlenum
+end Tests
+end HeytingLean

@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "verified-wasm-verifier"
+version = "0.1.0"
+description = "Public verifier for LeanCP-generated WebAssembly (WAT) artifacts."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = ["pydantic>=2.11,<3"]
+
+[project.urls]
+Homepage = "https://github.com/Abraxas1010/verified-wasm-verifier"
+Repository = "https://github.com/Abraxas1010/verified-wasm-verifier"
+
+[project.scripts]
+leancp-wasm-verify = "cli.leancp_verify:main"
+
+[tool.setuptools]
+packages = ["verifier", "cli"]

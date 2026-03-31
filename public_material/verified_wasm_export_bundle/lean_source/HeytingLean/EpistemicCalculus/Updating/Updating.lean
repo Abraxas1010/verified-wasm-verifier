@@ -1,0 +1,2 @@
+import HeytingLean.EpistemicCalculus.Updating.VUpdating
+import HeytingLean.EpistemicCalculus.Updating.BayesianUpdating

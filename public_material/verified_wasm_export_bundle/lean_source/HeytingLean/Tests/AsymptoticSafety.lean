@@ -1,0 +1,1 @@
+import HeytingLean.Tests.AsymptoticSafety.Sanity

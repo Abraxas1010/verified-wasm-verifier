@@ -1,0 +1,3 @@
+import HeytingLean.PerspectivalPlenum.Lens.Profile
+import HeytingLean.PerspectivalPlenum.Lens.Collapse
+import HeytingLean.PerspectivalPlenum.Lens.Examples.SquareCircle

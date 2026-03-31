@@ -1,0 +1,3 @@
+import HeytingLean.EpistemicCalculus.Magnitude.TsallisEntropy
+import HeytingLean.EpistemicCalculus.Magnitude.EnrichedMagnitude
+import HeytingLean.EpistemicCalculus.Magnitude.ShannonRecovery

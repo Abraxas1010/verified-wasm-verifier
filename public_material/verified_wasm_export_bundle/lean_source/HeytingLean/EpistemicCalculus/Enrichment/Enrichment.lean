@@ -1,0 +1,2 @@
+import HeytingLean.EpistemicCalculus.Enrichment.VEnrichedCategory
+import HeytingLean.EpistemicCalculus.Enrichment.ChangeOfEnrichment

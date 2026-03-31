@@ -1,0 +1,22 @@
+import HeytingLean.PadicDecoupling.Basic
+
+namespace HeytingLean.Tests.PadicDecoupling
+
+#check HeytingLean.PadicDecoupling.Padic.causalBall
+#check HeytingLean.PadicDecoupling.Padic.causalBall_convex
+#check HeytingLean.PadicDecoupling.Padic.isosceles_triangle
+#check HeytingLean.PadicDecoupling.Padic.walk_bounded
+#check HeytingLean.PadicDecoupling.Hamiltonian.TripartiteHamiltonian
+#check HeytingLean.PadicDecoupling.Hamiltonian.step_conserves_energy
+#check HeytingLean.PadicDecoupling.Nucleus.padicRound
+#check HeytingLean.PadicDecoupling.Nucleus.roundedSkeleton
+#check HeytingLean.PadicDecoupling.Nucleus.padicDepthNucleus
+#check HeytingLean.PadicDecoupling.Nucleus.fixedPointsAtDepth
+#check HeytingLean.PadicDecoupling.Nucleus.fixedPoints_finite
+#check HeytingLean.PadicDecoupling.Nucleus.gap_nonzero_at_finite_depth
+#check HeytingLean.PadicDecoupling.Bridge.padicBoundaryNucleus
+#check HeytingLean.PadicDecoupling.Bridge.hossenfelder_constrains_padic_depth
+#check HeytingLean.PadicDecoupling.Bridge.padic_fixed_iff_within_visible_skeleton
+#check HeytingLean.PadicDecoupling.Bridge.miranda_fixed_iff_contains_periodic
+
+end HeytingLean.Tests.PadicDecoupling
