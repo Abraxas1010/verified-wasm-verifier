@@ -1,0 +1,22 @@
+import HeytingLean.StackTheory
+
+namespace HeytingLean.Tests.StackTheory
+
+#check HeytingLean.StackTheory.truthSet_union
+#check HeytingLean.StackTheory.ext_mono
+#check HeytingLean.StackTheory.utility_le_language
+#check HeytingLean.StackTheory.law_of_the_stack
+#check HeytingLean.StackTheory.wmaxing_eq_fe_min
+#check HeytingLean.StackTheory.wmaxing_eq_fe_min_of_power_of_two
+#check HeytingLean.StackTheory.overconstraint_implies_splintering
+#check HeytingLean.StackTheory.Bridge.weakness_monotone_on_fixed_points
+#check HeytingLean.StackTheory.Bridge.weakness_monotone_on_fixed_policies
+#check HeytingLean.StackTheory.Bridge.abstractorThroughNucleus_eq_abstractor_of_fixed
+#check HeytingLean.StackTheory.Bridge.collective_identity_yields_nontrivial_meet_in_fixed_locus
+#check HeytingLean.StackTheory.Applications.halo_viable
+#check HeytingLean.StackTheory.Applications.halo_agent_bound
+#check HeytingLean.StackTheory.Applications.weak_boundary_exhibits_global_policy
+#check HeytingLean.StackTheory.Applications.weak_boundary_excludes_splintering
+#check HeytingLean.StackTheory.Applications.overconstrained_design_fragments_local_policy
+
+end HeytingLean.Tests.StackTheory

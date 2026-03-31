@@ -1,0 +1,17 @@
+import HeytingLean.PerspectivalPlenum.ContextualityEngine
+
+namespace HeytingLean
+namespace Tests
+namespace PerspectivalPlenum
+
+#check HeytingLean.PerspectivalPlenum.ContextualityEngine.LocallyAdmissibleOnCover
+#check HeytingLean.PerspectivalPlenum.ContextualityEngine.GloballyAdmissible
+#check HeytingLean.PerspectivalPlenum.ContextualityEngine.GloballyObstructed
+#check HeytingLean.PerspectivalPlenum.ContextualityEngine.canonical_contextuality_implies_physImpossible
+#check HeytingLean.PerspectivalPlenum.ContextualityEngine.triangle_local_and_global_obstruction
+#check HeytingLean.PerspectivalPlenum.ContextualityEngine.triangle_physImpossible
+#check HeytingLean.PerspectivalPlenum.ContextualityEngine.triangle_physImpossible_iff_constructiveHardness
+
+end PerspectivalPlenum
+end Tests
+end HeytingLean

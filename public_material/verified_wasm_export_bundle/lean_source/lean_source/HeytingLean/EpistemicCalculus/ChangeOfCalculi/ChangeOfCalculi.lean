@@ -1,0 +1,4 @@
+import HeytingLean.EpistemicCalculus.ChangeOfCalculi.Conservative
+import HeytingLean.EpistemicCalculus.ChangeOfCalculi.Liberal
+import HeytingLean.EpistemicCalculus.ChangeOfCalculi.Balanced
+import HeytingLean.EpistemicCalculus.ChangeOfCalculi.Examples

@@ -1,0 +1,2 @@
+import HeytingLean.DiffGeometry.Connection.Basic
+import HeytingLean.DiffGeometry.Connection.Bridge

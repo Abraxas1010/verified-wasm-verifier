@@ -1,5 +1,5 @@
 (module
-  (memory 1)
+  (memory (export "memory") 1)
   (func $sky_reducer_step (param i32) (param i32) (param i32) (param i32) (param i32) (param i32) (param i32) (param i32) (param i32) (param i32) (result i32) (local i32) (local i32) (local i32) (local i32) (local i32) (local i32) (local i32) (local i32)
     i32.const 0
     local.set 10
@@ -555,6 +555,7 @@
       i32.const 0
       return
     end
+    unreachable
   )
   (export "sky_reducer_step" (func 0))
 )

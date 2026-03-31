@@ -1,0 +1,2 @@
+import HeytingLean.PerspectivalPlenum.Enrichment.Weights
+import HeytingLean.PerspectivalPlenum.Enrichment.WeightedLensFunctor
